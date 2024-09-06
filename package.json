@@ -1,6 +1,6 @@
 {
 
-    "name": "be.eloistree.unityprefsthemall",
+    "name": "be.elab.unityprefsthemall",
     "displayName": "Unity Prefs Them All",
     "version": "0.0.1",
     "unity": "2018.1",
@@ -9,9 +9,18 @@
         "Persistance",
         "Tool",
         "Unity"
-    ],
-    "author": {
-        "name": "Eloi Stree"
-    },
+    ],     
+ "samples": [
+    {
+      "displayName": "Demo Scene",
+      "description": "A sample scene that demonstrates the features of this package.",
+      "path": "Scene/Demo"
+    }
+  ],
+  "author": {
+    "name": "Eloi Stree",
+    "mail": "",
+    "url": "https://github.com/EloiStree/"
+  },  
     "category": "Script"
 }
